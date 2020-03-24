@@ -11,7 +11,7 @@ const server = http.createServer((req, res) => {
     res.end('This server is running on hostname ' + hostname + ' and on port ' + port + '. This was created by Adalida Lewis');
 });
 
-server.listen(port, hostname, () => {
-    console.log('Server running at http://${hostname}:{port}/');
-});
+// server.listen(port, hostname, () => {
+//     console.log('Server running at http://${hostname}:{port}/');
+// });
 
