@@ -1,0 +1,20 @@
+{
+  "name": "p4serverapp",
+  "version": "1.0.0",
+  "description": "This app is a basic node that displays its hostname and port",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adalida-Lewis/webapps-P4-Server.git"
+  },
+  "author": "Adalida Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adalida-Lewis/webapps-P4-Server/issues"
+  },
+  "homepage": "https://github.com/Adalida-Lewis/webapps-P4-Server#readme"
+}
